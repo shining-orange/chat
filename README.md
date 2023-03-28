@@ -2,8 +2,6 @@
 
 基于[OpenAI GPT-3.5 Turbo API](https://platform.openai.com/docs/guides/chat)的演示。
 
-自建 API 地址：https://chatgpt.qingyi1220.cn/
-
 1. 配置环境和安装项目依赖
 
    > 首先，您需要安装[Node.js。](https://nodejs.org/) （需要 node 版本 18+）
